@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'SF-Pro-Display-Regular';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+	font-family: 'SF-Pro-Display-Regular';
+	src: url(./src/assets/fonts/SF-Pro-Display-Regular.otf);
+}
